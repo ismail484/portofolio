@@ -3,7 +3,7 @@ Project: Portofolio - [Mohamed Ismail]
 
 Description
 
-'''iresponsive portfolio with responsove photos and elements which would be suitable for all devices types (Iphone, tablet ,laptop, desktop), it's developed using media query at three breakpoints and Grunt for resizing photos , HTML5 elements as descriptive elements,bootstrap as styling   '''
+'''simply it's a responsive portfolio with responsove photos and elements which would be suitable for all devices types (Iphone, tablet ,laptop, desktop), it's developed using media query at three breakpoints and Grunt for resizing photos , HTML5 elements as descriptive elements,bootstrap as styling   '''
 
 Required Libraries and Dependencies
 
