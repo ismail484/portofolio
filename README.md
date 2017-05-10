@@ -25,3 +25,4 @@ Extra Credit Description
 Miscellaneous
 -------------
 
+http://placehold.it/100x100
