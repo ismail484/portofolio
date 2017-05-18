@@ -11,7 +11,7 @@ it just needs any browser (IE,Firefox, google Chrome) to run the application
 
 How to Run Project
 
-just donload the zip project (movies.zip)and run entertainment_center.py using command (python entertainment_center.py)
+Nothing, it's a HTML file 
 
 Extra Credit Description
 
