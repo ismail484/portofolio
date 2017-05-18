@@ -1,120 +1,57 @@
-
-.profile-job{
-
-    text-align: right;
-    
-}   
-.title-super{
-
-    font-size:60px;
+.profile-job {
+text-align : right;
 }
-.text-thin {
-
-    font-size:2,857;
+.title-super {
+font-size : 60px;
 }
-
-@media only screen and (min-width: 0px) and (max-width: 1200px) {
-
-.profile-avatar{
-
-    display: block;
-    margin-top:30px;
-    margin-left:auto;
-    margin-right: auto;
+@media only screen and (min-width:0) and (max-width:1200px) {
+.profile-avatar {
+display : block;
+margin-top : 30px;
+margin-left : auto;
+margin-right : auto;
 }
-.profile{
-
-    text-align: center;
-    
-}   
-.profile-job{
-
-    text-align: center;
-    
+.profile {
+text-align : center;
 }
-.title-super{
-
-    font-size:40px;
+.profile-job {
+text-align : center;
 }
-.text-thin {
-
-    font-size:2,857;
+.title-super {
+font-size : 40px;
 }
-
 }
-
-
-
-
-@media only screen and (min-width:1201)  {
-
-.profile-avatar{
-
-    display: block;
-    margin-top:20px;
-    margin-left:auto;
-    
+body {
+font-family : 'Lato', sans-serif;
+color : #747707;
+font-weight : 300;
 }
- .profile-job{
-
-    text-align: right;
-    
-}  
-
-
+.profile-avatar {
+display : block;
+margin-top : 20px;
 }
-
-
-body{
-
-   font-family: 'Lato', sans-serif;
-   color:#747707 ;
-font-weight:300;
-
-}
-
-
-
-
-.profile-avatar{
-
-    display: block;
-    margin-top:20px;
-}
-
 img {
-  max-width: 100%;
+max-width : 100%;
 }
-
-
-.img-responsive{
-    display: block;
-    max-width: 100%;
-    height: auto;
+.img-responsive {
+display : block;
+max-width : 100%;
+height : auto;
 }
-
 picture#banner img {
-  margin: 0 0 2em 0;
-  max-width:1160;
-  width: 100vw;
+margin : 0 0 2em 0;
+width : 100vw;
 }
-
-.text-muted{
-
-    color:#BCBBBB;
-
+.text-muted {
+color : #BCBBBB;
 }
-
-
-.title-logo{
-margin-top:20px;
-
-
+.title-logo {
+margin-top : 20px;
 }
-#footer{
-    display: table;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+#footer {
+display : table;
+text-align : center;
+margin-left : auto;
+margin-right : auto;
 }
 
