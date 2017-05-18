@@ -14,8 +14,8 @@ module.exports = function(grunt) {
         options: {
           engine: 'gm',  // <-- 'gm' instead of 'im' or remove this property if you are going to use GraphicksMagick,
           sizes: [{
-            width: 1600,
-            suffix: '_large_2x',
+            width: 300,
+            suffix: '_small',
             quality: 30
           }]
         },
