@@ -5,17 +5,17 @@ Project: Portofolio - [Mohamed Ismail]
 Description:
 -----------------------------
 
-'''simply it's a responsive portfolio with responsove photos and elements which would be suitable for all devices types (Iphone, tablet ,laptop, desktop), it's developed using media query at three breakpoints and Grunt for resizing photos , HTML5 elements as descriptive elements,bootstrap as styling   '''
+- '''simply it's a responsive portfolio with responsove photos and elements which would be suitable for all devices types (Iphone, tablet ,laptop, desktop), it's developed using media query at three breakpoints and Grunt for resizing photos , HTML5 elements as descriptive elements,bootstrap as styling   '''
 
 Required Libraries and Dependencies:
 ------------------------------------
 
-it just needs any browser (IE,Firefox, google Chrome) to run the application
+- it just needs any browser (IE,Firefox, google Chrome) to run the application
 
 How to Run Project:
 -------------------------------
 
-Nothing, it's a HTML file 
+- Nothing, it's a HTML file 
 
 
 Extra Credit Description:
@@ -23,13 +23,13 @@ Extra Credit Description:
 
 the following features are implemented:
 
-1-responsive elements
+- responsive elements
 
-2-media query , break points
+- media query , break points
 
-2-HTML5 ,CSS styling ,Gruntjs. 
+- HTML5 ,CSS styling ,Gruntjs. 
 
 Miscellaneous:
 ------------------
 
-using Grunt and IGMP just for automating any photo resizing which I have used at media query !
+- using Grunt and IGMP just for automating any photo resizing which I have used at media query !
